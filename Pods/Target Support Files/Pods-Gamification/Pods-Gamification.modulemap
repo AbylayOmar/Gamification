@@ -1,0 +1,6 @@
+module Pods_Gamification {
+  umbrella header "Pods-Gamification-umbrella.h"
+
+  export *
+  module * { export * }
+}
